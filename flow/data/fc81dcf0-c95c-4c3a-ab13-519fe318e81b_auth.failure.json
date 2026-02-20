@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-02-20T05:23:31.907121Z",
+  "event_type": "auth.failure",
+  "source": "bridge",
+  "trace_id": "fc81dcf0-c95c-4c3a-ab13-519fe318e81b",
+  "payload": {
+    "reason": "Replay attempt detected (nonce reuse)"
+  }
+}

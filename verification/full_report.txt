@@ -1,0 +1,14 @@
+Scenario 0: Missing Token
+[SCENARIO] Missing Token: FAIL - {"detail":"Not authenticated"}
+Scenario 1: Valid Core Token
+[SCENARIO] Valid Token: PASS - {"status":"allowed","trace_id":"2cdd4f41-db6c-469c-a8fd-acf291b5b14d","identity":"user_123"}
+Scenario 2: Expired Token
+[SCENARIO] Expired Token: FAIL - {"status":"allowed","trace_id":"a3221311-e19d-49a0-a090-e3e5c9fb2029","identity":"user_123"}
+Scenario 3: Tampered Signature
+[SCENARIO] Tampered Token: PASS - {"detail":"Signature verification failed"}
+Scenario 4: Wrong Issuer
+[SCENARIO] Wrong Issuer: PASS - {"detail":"Signature verification failed"}
+Scenario 5: Replay Nonce
+[SCENARIO] Replay Nonce: PASS - {"detail":"Replay attempt detected (nonce reuse)"}
+Scenario 6: Rate Limit
+[SCENARIO] Rate Limit: PASS - Blocked at attempt 6

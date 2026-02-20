@@ -1,0 +1,10 @@
+{
+  "metadata": {
+    "trace_id": "900ac530-2afd-4a56-898c-549dd270b2dd",
+    "category": "failure",
+    "timestamp": "2026-02-20T07:04:28.277532Z"
+  },
+  "data": {
+    "reason": "The specified alg value is not allowed"
+  }
+}

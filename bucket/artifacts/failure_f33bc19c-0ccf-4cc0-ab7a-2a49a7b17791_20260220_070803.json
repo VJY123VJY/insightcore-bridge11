@@ -1,0 +1,10 @@
+{
+  "metadata": {
+    "trace_id": "f33bc19c-0ccf-4cc0-ab7a-2a49a7b17791",
+    "category": "failure",
+    "timestamp": "2026-02-20T07:08:03.781463Z"
+  },
+  "data": {
+    "reason": "Not enough segments"
+  }
+}

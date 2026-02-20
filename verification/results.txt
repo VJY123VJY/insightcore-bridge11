@@ -1,0 +1,10 @@
+Scenario 1: Valid Core Token
+[SCENARIO] Valid Token: PASS - {"status":"allowed","trace_id":"c9c45d77-b3f5-40ef-b3fb-340a581e7e4d","identity":"user_123"}
+Scenario 2: Expired Token
+[SCENARIO] Expired Token: PASS - {"detail":"Token expired"}
+Scenario 3: Tampered Signature
+[SCENARIO] Tampered Token: PASS - {"detail":"Signature verification failed"}
+Scenario 5: Replay Nonce
+[SCENARIO] Replay Nonce: PASS - {"detail":"Replay attempt detected (nonce reuse)"}
+Scenario 6: Rate Limit
+[SCENARIO] Rate Limit: PASS - Blocked at attempt 6

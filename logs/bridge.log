@@ -1,0 +1,7 @@
+[2026-02-20 13:00:50] Bridge service starting on port 5500
+INFO:     Started server process [5920]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:5500 (Press CTRL+C to quit)
+
+[2026-02-20 13:01:02] Service terminated.

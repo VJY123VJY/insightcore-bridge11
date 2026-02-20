@@ -1,0 +1,10 @@
+{
+  "metadata": {
+    "trace_id": "5d6ba76e-9935-42fd-953b-1538ff03a639",
+    "category": "failure",
+    "timestamp": "2026-02-20T05:22:33.155038Z"
+  },
+  "data": {
+    "reason": "Replay attempt detected (nonce reuse)"
+  }
+}

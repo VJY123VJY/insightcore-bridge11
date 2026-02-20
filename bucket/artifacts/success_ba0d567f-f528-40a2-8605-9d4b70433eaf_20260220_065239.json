@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "trace_id": "ba0d567f-f528-40a2-8605-9d4b70433eaf",
+    "category": "success",
+    "timestamp": "2026-02-20T06:52:39.974188Z"
+  },
+  "data": {
+    "status": "allowed",
+    "trace_id": "ba0d567f-f528-40a2-8605-9d4b70433eaf",
+    "identity": "user_123"
+  }
+}

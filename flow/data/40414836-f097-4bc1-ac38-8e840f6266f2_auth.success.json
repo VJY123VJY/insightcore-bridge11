@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-02-20T06:52:13.837043Z",
+  "event_type": "auth.success",
+  "source": "bridge",
+  "trace_id": "40414836-f097-4bc1-ac38-8e840f6266f2",
+  "payload": {
+    "sub": "limit_user",
+    "nonce": "12d7c939-0604-4306-aea4-2919c6f7b3aa"
+  }
+}

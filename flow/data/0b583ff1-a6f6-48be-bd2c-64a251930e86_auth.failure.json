@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-02-20T05:21:44.959694Z",
+  "event_type": "auth.failure",
+  "source": "bridge",
+  "trace_id": "0b583ff1-a6f6-48be-bd2c-64a251930e86",
+  "payload": {
+    "reason": "Rate limit exceeded"
+  }
+}

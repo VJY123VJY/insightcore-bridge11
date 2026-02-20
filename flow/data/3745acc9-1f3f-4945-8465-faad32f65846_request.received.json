@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-02-20T06:54:41.448549Z",
+  "event_type": "request.received",
+  "source": "bridge",
+  "trace_id": "3745acc9-1f3f-4945-8465-faad32f65846",
+  "payload": {
+    "method": "POST",
+    "path": "/enforce"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "metadata": {
+    "trace_id": "9294b326-a63f-403f-a848-2bf47cbb1d01",
+    "category": "failure",
+    "timestamp": "2026-02-20T06:52:40.074788Z"
+  },
+  "data": {
+    "reason": "Signature verification failed"
+  }
+}

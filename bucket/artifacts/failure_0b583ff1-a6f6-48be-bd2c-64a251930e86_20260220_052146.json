@@ -1,0 +1,10 @@
+{
+  "metadata": {
+    "trace_id": "0b583ff1-a6f6-48be-bd2c-64a251930e86",
+    "category": "failure",
+    "timestamp": "2026-02-20T05:21:46.991007Z"
+  },
+  "data": {
+    "reason": "Rate limit exceeded"
+  }
+}

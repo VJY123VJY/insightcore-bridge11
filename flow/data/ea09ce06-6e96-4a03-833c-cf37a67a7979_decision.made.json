@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-02-20T06:54:41.197208Z",
+  "event_type": "decision.made",
+  "source": "bridge",
+  "trace_id": "ea09ce06-6e96-4a03-833c-cf37a67a7979",
+  "payload": {
+    "status": "allowed",
+    "trace_id": "ea09ce06-6e96-4a03-833c-cf37a67a7979",
+    "identity": "limit_user"
+  }
+}

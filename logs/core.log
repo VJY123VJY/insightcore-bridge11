@@ -1,0 +1,8 @@
+[2026-02-20 13:00:48] Core service starting on port 5503
+INFO:     Started server process [11676]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:5503 (Press CTRL+C to quit)
+INFO:     Shutting down
+
+[2026-02-20 13:01:02] Service terminated.

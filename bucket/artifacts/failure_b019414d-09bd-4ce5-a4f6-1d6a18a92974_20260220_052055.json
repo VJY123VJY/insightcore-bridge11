@@ -1,0 +1,10 @@
+{
+  "metadata": {
+    "trace_id": "b019414d-09bd-4ce5-a4f6-1d6a18a92974",
+    "category": "failure",
+    "timestamp": "2026-02-20T05:20:55.416653Z"
+  },
+  "data": {
+    "reason": "expired"
+  }
+}

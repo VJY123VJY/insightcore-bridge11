@@ -1,0 +1,10 @@
+{
+  "metadata": {
+    "trace_id": "6a30b07e-2993-438b-ae23-4a20faed0c22",
+    "category": "failure",
+    "timestamp": "2026-02-20T07:03:40.831257Z"
+  },
+  "data": {
+    "reason": "Invalid header padding"
+  }
+}
